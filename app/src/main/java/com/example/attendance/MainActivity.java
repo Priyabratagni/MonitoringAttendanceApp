@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(v -> showDialog());
         setToolbar();
         //--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+        // ** Created by Pb ***
         //************* DB *****************************************************************************************************************
 
         loadData();
@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     // DB ****************************************************************************************************************************************************
+    // ** Created by Pb ***
     private void loadData() {
         Cursor cursor = dbHelper.getClassTable();
 
