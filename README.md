@@ -1,12 +1,12 @@
 # MonitoringAttendanceApp
 This is a Attendance app Project, which was part of my college mini Project.
 
-#Technologies Used
+# Technologies Used
 java, XML, SQLite Database
 
-#ScreenShot
+# ScreenShot
 
-![Screenshot_2022-11-18-02-16-24-88_12e79c5781c294dddb0c7c951d63e8be](https://user-images.githubusercontent.com/84559341/204736726-930e364c-fadf-4728-97f1-1c9ce2f84e25.jpg)
+![Screenshot_2022-11-18-02-16-24-88_12e79c5781c294dddb0c7c951d63e8be](https://user-images.githubusercontent.com/84559341/204736726-930e364c-fadf-4728-97f1-1c9ce2f84e25.jpg| width=100)
 ![Screenshot_2022-11-18-02-16-32-07_12e79c5781c294dddb0c7c951d63e8be](https://user-images.githubusercontent.com/84559341/204736737-28f260b3-3f1b-42b5-bf8c-fb86c44c4f04.jpg)
 ![Screenshot_2022-11-18-02-17-00-11_12e79c5781c294dddb0c7c951d63e8be](https://user-images.githubusercontent.com/84559341/204736741-bb8291fc-3ff5-45d5-91ff-d33ee3a2c0f6.jpg)
 ![Screenshot_2022-11-18-02-49-43-17_12e79c5781c294dddb0c7c951d63e8be](https://user-images.githubusercontent.com/84559341/204736744-f86424b7-95dd-4509-b39d-7d9e624c8e6a.jpg)
